@@ -4,5 +4,10 @@
 :root{
     --cor-de-fundo: #EBECEE;
     --branco: #ffffff;
-    
+    --laranja: #EB9B00;
+    --azul: #002f52;
+
+}
+body{
+    background-color: var(--cor-de-fundo);
 }
